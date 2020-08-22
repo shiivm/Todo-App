@@ -1,0 +1,44 @@
+.todo-card {
+    padding-top: 10px;
+}
+.container {
+    margin-top: 5px;
+    padding: 5px;
+    margin-bottom: 5%;
+}
+
+fieldset {
+    border: 2px solid #ececec;
+    border-radius: 8px 8px 0 0;
+    padding: 1em;
+    width: 60%;
+    margin: auto;
+}
+.react-datepicker-wrapper{
+    width: 100%;
+}
+.col-auto{
+    margin: auto;
+}
+
+.page-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.page-footer a {
+    color: white;
+}
+.login {
+    width: 50%;
+}
+.inline-errormsg {
+    color: red;
+    font-size: 12px;
+}
+.hidden {
+    display: none;
+}
