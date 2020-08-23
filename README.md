@@ -25,7 +25,7 @@ mv .env.sample .env
 
 4. To create a admin user
 - Create a new user by registering
-- Manually update to role of newly created user to **admin**
+- Manually update the role of newly created user to **admin**
 
 ### Running the server locally.
 ```bash
